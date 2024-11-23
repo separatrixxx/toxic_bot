@@ -1,2 +1,2 @@
-TOKEN =
-GROUP_ID =
+TOKEN = ''
+GROUP_ID = ''
